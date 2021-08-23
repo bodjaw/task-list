@@ -15,11 +15,9 @@ public interface TaskService {
     List<Task> updateAllTasks(List<Task> newTasks);
 
     Task updateTask(Task task);
-//    Task updateTaskById(int id, String newContent);
 
     List<Task> deleteAllTasks();
 
     Task deleteTaskById(int id);
 
-    Task findByContent(String content);
 }
