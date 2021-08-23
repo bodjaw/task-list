@@ -1,0 +1,9 @@
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\TodolistApplication.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\dao\TaskDAO.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\storage\Storage.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\entity\Task.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\service\TaskServiceImpl.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\controller\TasksController.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\service\TaskService.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\dao\TaskDAOImpl.java
+D:\SKILLBOX\java_basics\14_SpringBootWebDevelopment\ToDoList\src\main\java\com\ilmirbaichurin\springboot\todolist\dao\TaskRepository.java
